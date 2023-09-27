@@ -22,7 +22,7 @@ const PieCharts = ({ selectedData }) => {
           dataKey="value"
           startAngle={180}
           endAngle={0}
-          data={[{ name: "Price", value: Price }]} // Pass the Price as an object in an array
+          data={[{ name: "Price", value: Price }]}
           cx="50%"
           cy="50%"
           outerRadius={80}
