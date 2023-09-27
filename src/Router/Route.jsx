@@ -1,10 +1,10 @@
 import { createBrowserRouter } from "react-router-dom";
 import MainLayout from "../layout/MainLayout";
 import Home from "../Pages/Home/Home";
-import Donation from "../Pages/Donation/donation";
 import Statistics from "../Pages/Statistics/Statistics";
 import ErrorPages from "../Pages/ErrorPages/ErrorPages";
 import Contribution from "../Pages/Contribution/Contribution";
+import Donations from "../Pages/Donations/Donations";
 
 const myCreatedRoute = createBrowserRouter([
   {
@@ -19,7 +19,7 @@ const myCreatedRoute = createBrowserRouter([
       },
       {
         path: "/donation",
-        element: <Donation></Donation>,
+        element: <Donations></Donations>,
       },
       {
         path: "/statistics",

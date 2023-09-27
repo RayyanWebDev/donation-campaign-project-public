@@ -14,23 +14,22 @@ const ContributionCard = ({ contribution }) => {
     Price,
   } = contribution || {};
 
-  const addedFavoritesArray = [];
-
   const handleContribution = () => {
-    const favoriteItems = JSON.parse(localStorage.getItem("favorites"));
+    const addedDonationsArray = [];
+    const donationItems = JSON.parse(localStorage.getItem("donates"));
 
-    if (!favoriteItems) {
-      addedFavoritesArray.push(contribution);
-      localStorage.setItem("favorites", JSON.stringify(addedFavoritesArray));
+    if (!donationItems) {
+      addedDonationsArray.push(contribution);
+      localStorage.setItem("donates", JSON.stringify(addedDonationsArray));
       swal("Thanks for your kind donation!");
     } else {
-      const isExist = favoriteItems.find(
+      const isExist = donationItems.find(
         (contribution) => contribution.id === id
       );
 
       if (!isExist) {
-        addedFavoritesArray.push(...favoriteItems, contribution);
-        localStorage.setItem("favorites", JSON.stringify(addedFavoritesArray));
+        addedDonationsArray.push(...donationItems, contribution);
+        localStorage.setItem("donates", JSON.stringify(addedDonationsArray));
         swal("You have a great heart!");
       } else {
         swal("Already!");
