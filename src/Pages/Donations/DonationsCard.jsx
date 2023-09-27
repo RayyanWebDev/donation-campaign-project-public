@@ -14,7 +14,7 @@ const DonationsCard = ({ contribution }) => {
   } = contribution || {};
   return (
     <div>
-      <div className="card w-3/4 bg-base-100 shadow-xl grid grid-cols-2">
+      <div className="card w-3/4 bg-base-100 shadow-xl grid grid-cols-3">
         <figure>
           <img className="h-56" src={Picture} alt="" />
         </figure>
@@ -29,7 +29,7 @@ const DonationsCard = ({ contribution }) => {
             {Category}
           </h2>
           <p style={{ color: Color_for_text }}>{Title}</p>
-          <p style={{ color: Color_for_text }}>{Price}</p>
+          <p style={{ color: Color_for_text }}>${Price}</p>
           <button
             style={{ background: Color_for_text }}
             className="text-white w-17 h-10 rounded-md"

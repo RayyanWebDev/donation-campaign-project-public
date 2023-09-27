@@ -8,7 +8,7 @@
     "Color_for_card_bg": "#FFCCCC",
     "Color_for_text": "#AA0000",
     "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-    "Price": "$99.99"
+    "Price": 99.99
   },
   {
     "id": "2",
@@ -19,7 +19,7 @@
     "Color_for_card_bg": "#FFE4B2",
     "Color_for_text": "#FF8C00",
     "Description": "Better Food for Everyone is a movement dedicated to improving nutrition and food accessibility worldwide. It advocates for healthier eating choices, food equality, and sustainable agriculture to enhance well-being.",
-    "Price": "$49.95"
+    "Price": 49.95
   },
   {
     "id": "3",
@@ -30,7 +30,7 @@
     "Color_for_card_bg": "#98FB98",
     "Color_for_text": "#006400",
     "Description": "A Used Clothing Drive is a community effort to collect and redistribute gently worn garments, fostering compassion and sustainability by providing clothing to those in need while reducing textile waste.",
-    "Price": "$129.00"
+    "Price": 129.0
   },
   {
     "id": "4",
@@ -41,7 +41,7 @@
     "Color_for_card_bg": "#ADD8E6",
     "Color_for_text": "#00008B",
     "Description": "Clean water is a precious resource that sustains life, promoting good health and environmental harmony. Access to safe, pure water is essential for thriving communities and a sustainable planet.",
-    "Price": "$19.99"
+    "Price": 19.99
   },
   {
     "id": "5",
@@ -52,7 +52,7 @@
     "Color_for_card_bg": "#FFCCCC",
     "Color_for_text": "#AA0000",
     "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-    "Price": "$99.99"
+    "Price": 99.99
   },
   {
     "id": "6",
@@ -63,7 +63,7 @@
     "Color_for_card_bg": "#FFE4B2",
     "Color_for_text": "#FF8C00",
     "Description": "Better Food for Everyone is a movement dedicated to improving nutrition and food accessibility worldwide. It advocates for healthier eating choices, food equality, and sustainable agriculture to enhance well-being.",
-    "Price": "$49.95"
+    "Price": 49.95
   },
   {
     "id": "7",
@@ -74,7 +74,7 @@
     "Color_for_card_bg": "#98FB98",
     "Color_for_text": "#006400",
     "Description": "A Used Clothing Drive is a community effort to collect and redistribute gently worn garments, fostering compassion and sustainability by providing clothing to those in need while reducing textile waste.",
-    "Price": "$129.00"
+    "Price": 129.0
   },
   {
     "id": "8",
@@ -85,7 +85,7 @@
     "Color_for_card_bg": "#ADD8E6",
     "Color_for_text": "#00008B",
     "Description": "Clean water is a precious resource that sustains life, promoting good health and environmental harmony. Access to safe, pure water is essential for thriving communities and a sustainable planet.",
-    "Price": "$19.99"
+    "Price": 19.99
   },
   {
     "id": "9",
@@ -96,7 +96,7 @@
     "Color_for_card_bg": "#FFCCCC",
     "Color_for_text": "#AA0000",
     "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-    "Price": "$99.99"
+    "Price": 99.99
   },
   {
     "id": "10",
@@ -107,7 +107,7 @@
     "Color_for_card_bg": "#FFE4B2",
     "Color_for_text": "#FF8C00",
     "Description": "Better Food for Everyone is a movement dedicated to improving nutrition and food accessibility worldwide. It advocates for healthier eating choices, food equality, and sustainable agriculture to enhance well-being.",
-    "Price": "$49.95"
+    "Price": 49.95
   },
   {
     "id": "11",
@@ -118,7 +118,7 @@
     "Color_for_card_bg": "#98FB98",
     "Color_for_text": "#006400",
     "Description": "A Used Clothing Drive is a community effort to collect and redistribute gently worn garments, fostering compassion and sustainability by providing clothing to those in need while reducing textile waste.",
-    "Price": "$129.00"
+    "Price": 129.0
   },
   {
     "id": "12",
@@ -129,6 +129,6 @@
     "Color_for_card_bg": "#ADD8E6",
     "Color_for_text": "#00008B",
     "Description": "Clean water is a precious resource that sustains life, promoting good health and environmental harmony. Access to safe, pure water is essential for thriving communities and a sustainable planet.",
-    "Price": "$19.99"
+    "Price": 19.99
   }
 ]
