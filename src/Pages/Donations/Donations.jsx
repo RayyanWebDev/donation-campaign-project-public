@@ -25,7 +25,7 @@ const Donations = () => {
         <p>{noFound}</p>
       ) : (
         <div>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2">
+          <div className="flex flex-wrap lg:grid grid-cols-2 gap-12">
             {isShow
               ? donates.map((contribution) => (
                   <DonationsCard
@@ -59,3 +59,4 @@ const Donations = () => {
 };
 
 export default Donations;
+// grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2

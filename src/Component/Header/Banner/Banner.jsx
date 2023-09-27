@@ -17,10 +17,10 @@ const Banner = () => {
             </h1>
             <input
               type="text"
-              placeholder="Type here"
+              placeholder="  Search Here"
               className="input input-bordered input-error w-full max-w-xs"
             />
-            <button className="btn btn-primary">Get Started</button>
+            <button className="btn btn-primary">Search</button>
           </div>
         </div>
       </div>

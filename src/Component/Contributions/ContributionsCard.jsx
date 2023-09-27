@@ -15,7 +15,7 @@ const ContributionsCard = ({ contribution }) => {
   } = contribution || {};
 
   return (
-    <div>
+    <div className="grid justify-center lg:grid">
       <Link to={`/contributions/${id}`}>
         <div className="card w-72 bg-base-100 shadow-xl">
           <figure>
